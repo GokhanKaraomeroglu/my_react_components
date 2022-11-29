@@ -28,7 +28,7 @@ function Footer() {
               <rect x="14" y="11" width="7" height="12" />
             </svg>
             <span className="ml-2 text-xl font-bold tracking-wide text-gray-300 uppercase">
-              ayvapp.com
+              giraffeanalytics.com
             </span>
           </a>
           <div className="mt-4 lg:max-w-sm">
@@ -36,7 +36,7 @@ function Footer() {
              Tedarikçi bulmak da tedarikçi olmak da artık çok kolay.
             </p>
             <p className="mt-4 text-sm text-gray-300">
-              Toptan ticaretin merkezi ayva.com güvnilir, hızlı ve karlı ticaret için tedarikçiler ile parakendecilerin ortak buluşma noktası.
+              Toptan ticaretin merkezi giraffeanalytics.com, güvnilir, hızlı ve karlı ticaret için tedarikçiler ile parakendecilerin ortak buluşma noktası.
             </p>
           </div>
         </div>
@@ -212,7 +212,7 @@ function Footer() {
 									title="Our email"
                   className="text-gray-600 transition-colors duration-300 hover:text-deep-purple-accent-400"
                 >
-                  info@ayvaapp.com
+                  info@giraffeanalytics.com
                 </a>
               </li>
               <li>

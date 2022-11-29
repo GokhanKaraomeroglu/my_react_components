@@ -41,7 +41,7 @@ function BadgeSection() {
 										height="24"
 									/>
 								</svg> */}
-            <span className="relative">ayvapp.com'a</span>
+            <span className="relative">giraffeanalytics.com'a</span>
           </span>{" "}
           heryerden ulaşın!
         </h2>
@@ -67,7 +67,7 @@ function BadgeSection() {
           </a>
         </div>
         <p className="max-w-xs text-xs text-gray-600 sm:text-sm sm:max-w-sm sm:mx-auto">
-						ayvapp.com kullanan dünya çapında milyonlarca insanın parçası olun.
+						giraffeanalytics.com kullanan dünya çapında milyonlarca insanın parçası olun.
         </p>
       </div>
     </div>

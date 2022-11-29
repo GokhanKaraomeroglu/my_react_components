@@ -11,7 +11,7 @@ function ParalaxSection(props) {
     <div class="w-full h-96 bg-fixed bg-cover bg-center flex justify-center items-center"
         // style={{backgroundImage: "url('https://www.kindacode.com/wp-content/uploads/2022/05/orange-background.jpeg')"}}>
         style={{backgroundImage: `url(${props.pic})`}}>
-        <h1 class="text-white opacity-80 drop-shadow-md text-4xl italic font-bold">ayvapp.com</h1>
+        <h1 class="text-white opacity-80 drop-shadow-md text-4xl italic font-bold">giraffeanalytics.com</h1>
     </div>
 
     {/* <div class="p-10 bg-sky-200">

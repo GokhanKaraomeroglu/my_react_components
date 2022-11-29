@@ -12,7 +12,7 @@ function Testimonial() {
       <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
         <div className="h-full text-center">
           <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src={TestiPic}/>
-          <p className="leading-relaxed"> ayvapp.com ile işlerim geçen yıla göre %100 artış gösterdi. Artık dünyanın her noktasına bir tık ile ulaşabiliyorum.</p>
+          <p className="leading-relaxed"> giraffeanalytics.com ile işlerim geçen yıla göre %100 artış gösterdi. Artık dünyanın her noktasına bir tık ile ulaşabiliyorum.</p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Ahmet Bayrak</h2>
           <p className="text-gray-900">Founder of Toptal</p>
@@ -21,7 +21,7 @@ function Testimonial() {
       <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
         <div className="h-full text-center">
           <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src={TestiPic2}/>
-          <p className="leading-relaxed">Artık aradığımız herşeyi ayvapp.com'dan buluyoruz. Her ürün için toptancıları dolanmamız gerekmiyor. </p>
+          <p className="leading-relaxed">Artık aradığımız herşeyi giraffeanalytics.com'dan buluyoruz. Her ürün için toptancıları dolanmamız gerekmiyor. </p>
           <br/>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Alper Kamu</h2>
@@ -31,7 +31,7 @@ function Testimonial() {
       <div className="lg:w-1/3 lg:mb-0 p-4">
         <div className="h-full text-center">
           <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src={TestiPic3}/>
-          <p className="leading-relaxed">En iyi toptan malzeme alma platformu olarak ayvapp.com'u herkese öneririm.</p>
+          <p className="leading-relaxed">En iyi toptan malzeme alma platformu olarak giraffeanalytics.com'u herkese öneririm.</p>
           <br/>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
           <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Hasan Demirdağ</h2>

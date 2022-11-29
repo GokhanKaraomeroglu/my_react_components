@@ -15,7 +15,7 @@ function HomeHero() {
         <div className="w-full lg:w-1/2">
           <div className="lg:max-w-lg">
             <h1 className="text-3xl font-bold tracking-wide text-gray-800 dark:text-white lg:text-5xl">
-              Toptan ticaret mi? www.ayvapp.com
+              Toptan ticaret mi? www.giraffeanalytics.com
             </h1>
 
             <div className="mt-8 space-y-5">

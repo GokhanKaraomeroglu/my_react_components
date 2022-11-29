@@ -19,8 +19,8 @@ function AboutUsSection() {
 							<h2 className="title-font sm:text-3xl text-2xl mb-4 font-medium text-gray-900">Merhaba</h2> 
             </div>
             <p className="mb-8 leading-relaxed">
-              Toptan alışverişin merkezi olan <strong>ayvapp.com</strong>'u parakendeciler ile toptancıların güvenilir bir ortamda, hızlı ve doğru ürün üzerinde buluşmalarını sağlamak için alanında uzman kararlı girişimciler ve yazılımcılar ile kurduk.{" "}
-              <strong>ayvapp.com</strong>'un temel düşüncesi tüm
+              Toptan alışverişin merkezi olan <strong>giraffeanalytics.com</strong>'u parakendeciler ile toptancıların güvenilir bir ortamda, hızlı ve doğru ürün üzerinde buluşmalarını sağlamak için alanında uzman kararlı girişimciler ve yazılımcılar ile kurduk.{" "}
+              <strong>giraffeanalytics.com</strong>'un temel düşüncesi tüm
               üyelerine en kaliteli ürünleri en uygun fiyatla sunmaktır.{" "}
             </p>
             <p>
